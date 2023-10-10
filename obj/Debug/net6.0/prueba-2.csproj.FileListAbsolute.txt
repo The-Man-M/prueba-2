@@ -1,0 +1,14 @@
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\bin\Debug\net6.0\prueba-2.exe
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\bin\Debug\net6.0\prueba-2.deps.json
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\bin\Debug\net6.0\prueba-2.runtimeconfig.json
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\bin\Debug\net6.0\prueba-2.dll
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\bin\Debug\net6.0\prueba-2.pdb
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\obj\Debug\net6.0\prueba-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\obj\Debug\net6.0\prueba-2.AssemblyInfoInputs.cache
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\obj\Debug\net6.0\prueba-2.AssemblyInfo.cs
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\obj\Debug\net6.0\prueba-2.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\obj\Debug\net6.0\prueba-2.dll
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\obj\Debug\net6.0\refint\prueba-2.dll
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\obj\Debug\net6.0\prueba-2.pdb
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\obj\Debug\net6.0\prueba-2.genruntimeconfig.cache
+C:\Users\Carlo\OneDrive\Documentos\GitHub\prueba-2\obj\Debug\net6.0\ref\prueba-2.dll

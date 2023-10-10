@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.WriteLine("ADIVINA EL NUMERO");
+            
         }
     }
 }
